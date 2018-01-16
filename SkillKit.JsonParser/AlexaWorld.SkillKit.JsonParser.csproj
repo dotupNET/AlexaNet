@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <AssemblyName>AlexaWorld.SkillKit.JsonParser</AssemblyName>
+    <RootNamespace>AlexaWorld.SkillKit.JsonParser</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="10.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SkillKit.Models\AlexaWorld.SkillKit.Models.csproj" />
+  </ItemGroup>
+
+</Project>

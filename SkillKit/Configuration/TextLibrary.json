@@ -1,0 +1,31 @@
+﻿{
+	"de": {
+		"LaunchRequest": [
+			"Hallo. Schön dich wieder zu sehen",
+			"Da bist du ja wieder.",
+			"Hey ich dachte schon du bist ausgezogen."
+		],
+		"AMAZON.HelpIntent": [
+					"Wenn du diesen genialen skill nicht bedienen kannst, kann ich dir auch nicht helfen.",
+					"So langsam müsstest du es wissen.",
+					"Aber auf's Klo kannst du alleine?"
+		],
+		"SessionEndedRequest": [
+			"Auf Wiedersehen!",
+			"Danke!",
+			"Bis demnächst!",
+			"Bis zum nächsten Mal!",
+			"Gerne wieder!",
+			"Tschau!",
+			"Ok!",
+			"Bitte sehr!",
+			"Tschüß!",
+			"<say-as interpret-as=\"interjection\">ade</say-as>",
+			"<say-as interpret-as=\"interjection\">alles klar</say-as>",
+			"<say-as interpret-as=\"interjection\">bis bald</say-as>",
+			"<say-as interpret-as=\"interjection\">bis dann</say-as>",
+			"<say-as interpret-as=\"interjection\">mach's gut</say-as>",
+			"<say-as interpret-as=\"interjection\">tschö</say-as>"
+		]
+	}
+}

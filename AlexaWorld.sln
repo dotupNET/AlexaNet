@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexaBackend", "AlexaBackend\AlexaBackend.csproj", "{F1090A06-2C30-47E6-A841-F9E0F4E2678A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexaWorld.SkillKit", "SkillKit\AlexaWorld.SkillKit.csproj", "{1D45E1FC-7B7A-4037-AB88-FDB39586C3FD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexaWorld.SkillKit.Models", "SkillKit.Models\AlexaWorld.SkillKit.Models.csproj", "{1E2AA886-C728-4929-A4D3-715B650BD14C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlexaWorld.SkillKit.JsonParser", "SkillKit.JsonParser\AlexaWorld.SkillKit.JsonParser.csproj", "{871F77E5-213C-4147-9142-33A997F53326}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlexaWorld.NetSkills.ResponseBuilders", "AlexaWorld.NetSkills.ResponseBuilders\AlexaWorld.NetSkills.ResponseBuilders.csproj", "{05F57F5B-B06E-4BAC-A868-70F9344F90AB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1090A06-2C30-47E6-A841-F9E0F4E2678A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1090A06-2C30-47E6-A841-F9E0F4E2678A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1090A06-2C30-47E6-A841-F9E0F4E2678A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1090A06-2C30-47E6-A841-F9E0F4E2678A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D45E1FC-7B7A-4037-AB88-FDB39586C3FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D45E1FC-7B7A-4037-AB88-FDB39586C3FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D45E1FC-7B7A-4037-AB88-FDB39586C3FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D45E1FC-7B7A-4037-AB88-FDB39586C3FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E2AA886-C728-4929-A4D3-715B650BD14C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2AA886-C728-4929-A4D3-715B650BD14C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2AA886-C728-4929-A4D3-715B650BD14C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2AA886-C728-4929-A4D3-715B650BD14C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871F77E5-213C-4147-9142-33A997F53326}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871F77E5-213C-4147-9142-33A997F53326}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871F77E5-213C-4147-9142-33A997F53326}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871F77E5-213C-4147-9142-33A997F53326}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05F57F5B-B06E-4BAC-A868-70F9344F90AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05F57F5B-B06E-4BAC-A868-70F9344F90AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05F57F5B-B06E-4BAC-A868-70F9344F90AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05F57F5B-B06E-4BAC-A868-70F9344F90AB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F1DD5DE-B362-484D-85E1-4CD7BC5C4A4A}
+	EndGlobalSection
+EndGlobal
